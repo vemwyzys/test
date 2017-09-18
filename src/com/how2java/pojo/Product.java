@@ -3,6 +3,7 @@ package com.how2java.pojo;
 import java.util.Set;
 
 public class Product {
+	//测试Git
 
 	int id;
 	String name;
